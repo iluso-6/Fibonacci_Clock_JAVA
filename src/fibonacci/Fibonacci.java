@@ -187,6 +187,7 @@ public class Fibonacci extends Application {
 
                 final Stage dialog = new Stage();
                 dialog.initModality(Modality.WINDOW_MODAL);
+                dialog.initStyle(StageStyle.UTILITY);
                 dialog.initOwner(primaryStage);
                 Parent root = FXMLLoader.load(getClass().getResource("FXMLModal.fxml"));
 
