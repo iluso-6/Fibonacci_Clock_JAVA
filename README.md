@@ -1,4 +1,4 @@
-# Fibonacci_Clock_JAVA
+# Fibonacci Clock Java FX
 <br><br>
 ***Time shown : 10:20pm***
 
